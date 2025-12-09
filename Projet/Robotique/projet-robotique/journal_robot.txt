@@ -1,0 +1,4 @@
+[1m[32m LA POSITION INITIALE DU ROBOT : (0.00,0.00)[0m
+
+Commande numero :2 , type=AVANCER ,duree=4.00  sec,vitesse=2.00  m/s,priorite=0     [2025-12-09 19:46:52] 
+[1m[38;2;135;206;250mLe robot est a la position (0.00, 8.00)[0m

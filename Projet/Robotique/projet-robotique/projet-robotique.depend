@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1765305281 source:c:\users\pc\documents\ensi\c\projet\robotique\projet-robotique\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	<windows.h>
+
