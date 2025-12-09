@@ -1,6 +1,6 @@
-Ce projet est un outil de communication entre un utilisateur et SON robot,
+Ce projet est un outil de communication entre un utilisateur et SON robot.
 Via le terminal, l'utilisateur est demandé de faire entrer ses commandes qui peuvent être aussi bien urgentes que normales.
-Toute ccommande entrée, sera ajoutée dans la file qui lui correspond selon son niveau de priorité.
+Toute commande entrée, sera ajoutée dans la file qui lui correspond selon son niveau de priorité.
 Une fois l'utilisateur termine avec l'ajout de ses commandes l'execution commence:
 Le programme débute avec la file urgente, avec chaque commande executée on a la nouvelle position du robot ainsi que la vérification d'obstacle à l'aide de la fonction
 aléatoire simulation_capteur().
